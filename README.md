@@ -94,7 +94,7 @@ It solves the common problem of **manual photo sharing after group events** by a
 
 ✔ Capstone-I: Architecture, Design, Research  
 ✔ Capstone-II: Full Implementation, Optimizations, and Live Demo Ready  
-📆 Final Defense Presentation – **August 2025**
+📆 Final Defense Presentation – **31 July 2025**
 
 ---
 
