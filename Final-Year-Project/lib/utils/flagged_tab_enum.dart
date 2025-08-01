@@ -1,0 +1,1 @@
+enum FlaggedImageTab { duplicate, blur }
